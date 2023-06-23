@@ -1,10 +1,17 @@
+Real Time ASL Recognition System that can recognize American Sign Language from webcam or video in the real time with high accuracy.<br>
+This models are trained in kaggle's asl dataset which contains datas of 250 words.<br>
+This models are taken from the Google - Isolated Sign Language Recognition Compition organised in kaggle.<br>
+Compition: https://www.kaggle.com/competitions/asl-signs/overview<br>
+Dataset: https://www.kaggle.com/competitions/asl-signs/data<br>
+
+
 To run this project follow the steps bellow:
 
 1. Make a Local Copy of the project.
 2. Install the required dependency.
 3. Run Each cell of 'Model Implementation' file.
 
-"predict_asl" is the function which predict the asl from webcam or downloaded videos.
+Call "predict_asl" function to predict the asl from webcam or downloaded videos.
 
 syntax: predict_asl(mode, video_path, model)
 
@@ -18,3 +25,6 @@ Owner details:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; email: satyadewangan05@gmail.com<br>
 &nbsp;&nbsp;&nbsp;&nbsp; linkedin: https://www.linkedin.com/in/satyadewangan/<br>
 &nbsp;&nbsp;&nbsp;&nbsp; github: https://github.com/SatyaDewangan05<br>
+
+
+Further Collaboration is most Welcome.
