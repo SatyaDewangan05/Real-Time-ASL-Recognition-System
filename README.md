@@ -8,14 +8,13 @@ To run this project follow the steps bellow:
 
 syntax: predict_asl(mode, video_path, model)
 
-Option in predict_asl are:
-
-  mode: 0-webcam & 1-local_video<br>
-  video_path: path of the video from local disk if mode=1 is selected<br>
-  model: ann, top-01, cnn, cnn+3trans, lstm, transformer and their is also default model if nothing is passed<br>
+Option in predict_asl are:<br>
+&nbsp;&nbsp;&nbsp;&nbsp; mode: 0-webcam & 1-local_video<br>
+&nbsp;&nbsp;&nbsp;&nbsp; video_path: path of the video from local disk if mode=1 is selected<br>
+&nbsp;&nbsp;&nbsp;&nbsp; model: ann, top-01, cnn, cnn+3trans, lstm, transformer and their is also default model if nothing is passed<br>
 
 Owner details:<br>
-  Author: Satyaprakash Dewangan<br>
-  email: satyadewangan05@gmail.com<br>
-  linkedin: https://www.linkedin.com/in/satyadewangan/<br>
-  github: https://github.com/SatyaDewangan05<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Author: Satyaprakash Dewangan<br>
+&nbsp;&nbsp;&nbsp;&nbsp; email: satyadewangan05@gmail.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp; linkedin: https://www.linkedin.com/in/satyadewangan/<br>
+&nbsp;&nbsp;&nbsp;&nbsp; github: https://github.com/SatyaDewangan05<br>
