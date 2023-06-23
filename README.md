@@ -1,5 +1,5 @@
 Real Time ASL Recognition System that can recognize American Sign Language from webcam or video in the real time with high accuracy.<br>
-It consists of various models based on different algorithms like ann, cnn, cnn+transformer, lstm, transformer, etc.<br>
+It consists of various models based on different algorithms like ANN, CNN, CNN+Transformer, LSTM, Transformer, etc.<br>
 These models are trained in kaggle's asl dataset which contains data of 250 words.<br>
 These models are taken from the Google - Isolated Sign Language Recognition Compition organized in kaggle.<br>
 Competition: https://www.kaggle.com/competitions/asl-signs/overview<br>
