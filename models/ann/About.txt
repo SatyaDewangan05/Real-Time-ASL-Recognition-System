@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/clemchris/asl-sign-detection-pytorch-lightning/notebook
+
+CLEM-CHRIS
+
+ASL Sign Detection - PyTorch Lightning

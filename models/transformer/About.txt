@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/markwijkhuizen/gislr-tf-data-processing-transformer-training
+
+MARK WIJKHUIZEN
+
+GISLR TF Data Processing & Transformer Training

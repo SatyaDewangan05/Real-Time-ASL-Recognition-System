@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/jvthunder/lstm-baseline-for-starters-sign-language/output
+
+JOSHUA ADRIAN CAHYONO
+
+LSTM Baseline for Starters - Sign Language
